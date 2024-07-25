@@ -1,7 +1,7 @@
 # Namada. Гайд по установке и синхронизации.
 ## Установка Namada:
 
-### 1. Воспользуйтемся скриптом для быстрой установки:
+### 1. Воспользуемся скриптом для быстрой установки:
 ```shell 
 wget -q -O namada.sh https://api.nodes.guru/namada.sh && chmod +x namada.sh && sudo /bin/bash namada.sh
 ```
